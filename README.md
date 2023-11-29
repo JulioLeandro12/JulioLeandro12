@@ -24,6 +24,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JulioLeandro12&show_icons=true&locale=en&theme=radical" alt="JulioLeandro12" /></p>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
